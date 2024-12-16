@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>
-        welcome to php
+        inform file
     </h1>
 </body>
 </html>
